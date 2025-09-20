@@ -1,0 +1,11 @@
+D:\BT_buoi3\BT_Buoi3\bin\Debug\BT_Buoi3.exe.config
+D:\BT_buoi3\BT_Buoi3\bin\Debug\BT_Buoi3.exe
+D:\BT_buoi3\BT_Buoi3\bin\Debug\BT_Buoi3.pdb
+D:\BT_buoi3\BT_Buoi3\obj\Debug\BT_Buoi3.csproj.AssemblyReference.cache
+D:\BT_buoi3\BT_Buoi3\obj\Debug\BT_Buoi3.Properties.Resources.resources
+D:\BT_buoi3\BT_Buoi3\obj\Debug\BT_Buoi3.csproj.GenerateResource.cache
+D:\BT_buoi3\BT_Buoi3\obj\Debug\BT_Buoi3.csproj.CoreCompileInputs.cache
+D:\BT_buoi3\BT_Buoi3\obj\Debug\BT_Buoi3.exe
+D:\BT_buoi3\BT_Buoi3\obj\Debug\BT_Buoi3.pdb
+D:\BT_buoi3\BT_Buoi3\obj\Debug\BT_Buoi3.exe.config
+D:\BT_buoi3\BT_Buoi3\obj\Debug\BT_Buoi3.frmMain.resources
